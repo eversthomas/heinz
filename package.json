@@ -1,0 +1,24 @@
+{
+  "name": "heinz",
+  "version": "1.0.0",
+  "description": "experimental php template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eversthomas/heinz.git"
+  },
+  "keywords": [
+    "php",
+    "template",
+    "engine"
+  ],
+  "author": "Thomas Evers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eversthomas/heinz/issues"
+  },
+  "homepage": "https://github.com/eversthomas/heinz#readme"
+}
